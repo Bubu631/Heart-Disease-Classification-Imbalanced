@@ -1,4 +1,4 @@
-# Heart Disease Prediction: Handling Imbalanced Data 
+# Heart Disease Prediction 
 
 ## Project Overview
 This project focuses on a critical medical diagnostic task: predicting heart disease (a binary classification problem). The core challenge is the severe **Class Imbalance** in the dataset, where healthy samples significantly outnumber positive cases. A standard model would achieve misleadingly high accuracy by simply ignoring the minority class.
